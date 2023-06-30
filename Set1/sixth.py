@@ -5,7 +5,7 @@
 input_str = "Hello"
 vowels = "aeiouAEIOU"
 count = 0
-for char in input_string:
+for char in input_str:
     if char in vowels:
         count += 1
         
