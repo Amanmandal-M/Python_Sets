@@ -22,5 +22,5 @@ def factorial2(n):
 
 # Test the function
 input_num1 = 8
-result = factorial2(input_num1)
-print(f"Factorial of {input_num1} is {result}.")
+result2 = factorial2(input_num1)
+print(f"Factorial of {input_num1} is {result2}.")
